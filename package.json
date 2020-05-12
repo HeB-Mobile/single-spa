@@ -1,5 +1,5 @@
 {
-  "name": "single-spa",
+  "name": "ebw-single-spa",
   "version": "5.4.0",
   "description": "Microfrontends made easy",
   "main": "lib/umd/single-spa.min.js",
